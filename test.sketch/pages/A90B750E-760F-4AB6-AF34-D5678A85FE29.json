@@ -6,7 +6,13 @@
     "miterLimit" : 10,
     "endDecorationType" : 0
   },
-  "rotation" : 0,
+  "horizontalRulerData" : {
+    "base" : 0,
+    "_class" : "rulerData",
+    "guides" : [
+
+    ]
+  },
   "frame" : {
     "x" : 0,
     "y" : 0,
@@ -16,7 +22,7 @@
     "width" : 300
   },
   "do_objectID" : "A90B750E-760F-4AB6-AF34-D5678A85FE29",
-  "layerListExpandedType" : 0,
+  "hasClickThrough" : true,
   "exportOptions" : {
     "shouldTrim" : false,
     "includedLayerIds" : [
@@ -28,15 +34,9 @@
 
     ]
   },
-  "hasClickThrough" : true,
-  "horizontalRulerData" : {
-    "base" : 0,
-    "_class" : "rulerData",
-    "guides" : [
-
-    ]
-  },
   "includeInCloudUpload" : true,
+  "layerListExpandedType" : 0,
+  "rotation" : 0,
   "verticalRulerData" : {
     "base" : 0,
     "_class" : "rulerData",
@@ -48,12 +48,6 @@
   "nameIsFixed" : false,
   "name" : "Page 1",
   "isVisible" : true,
-  "resizingType" : 0,
-  "userInfo" : {
-    "com.invision.prototype" : {
-      "lastUsedGestureID" : 7
-    }
-  },
   "layers" : [
     {
       "isFlippedHorizontal" : false,
@@ -63,7 +57,13 @@
         "miterLimit" : 10,
         "endDecorationType" : 0
       },
-      "rotation" : 0,
+      "horizontalRulerData" : {
+        "base" : 0,
+        "_class" : "rulerData",
+        "guides" : [
+
+        ]
+      },
       "frame" : {
         "x" : 109,
         "y" : 107,
@@ -73,7 +73,7 @@
         "width" : 375
       },
       "do_objectID" : "350DB3C4-B283-40D6-B4AD-7BA4D151A0BD",
-      "layerListExpandedType" : 0,
+      "hasClickThrough" : true,
       "exportOptions" : {
         "shouldTrim" : false,
         "includedLayerIds" : [
@@ -82,18 +82,20 @@
         "layerOptions" : 0,
         "_class" : "exportOptions",
         "exportFormats" : [
-
+          {
+            "_class" : "exportFormat",
+            "absoluteSize" : 0,
+            "fileFormat" : "png",
+            "namingScheme" : 0,
+            "visibleScaleType" : 0,
+            "name" : "",
+            "scale" : 1
+          }
         ]
       },
-      "hasClickThrough" : true,
       "hasBackgroundColor" : false,
-      "horizontalRulerData" : {
-        "base" : 0,
-        "_class" : "rulerData",
-        "guides" : [
-
-        ]
-      },
+      "includeInCloudUpload" : true,
+      "layerListExpandedType" : 0,
       "backgroundColor" : {
         "red" : 1,
         "_class" : "color",
@@ -101,8 +103,8 @@
         "blue" : 1,
         "green" : 1
       },
-      "includeInCloudUpload" : true,
       "resizesContent" : false,
+      "rotation" : 0,
       "verticalRulerData" : {
         "base" : 0,
         "_class" : "rulerData",
@@ -114,7 +116,6 @@
       "nameIsFixed" : false,
       "name" : "iPhone 8",
       "isVisible" : true,
-      "resizingType" : 0,
       "layers" : [
         {
           "shouldBreakMaskChain" : false,
@@ -178,7 +179,7 @@
                 "width" : 120
               },
               "do_objectID" : "FE6D00CF-ABCF-4138-B28A-12CF23DB3436",
-              "layerListExpandedType" : 0,
+              "hasClickThrough" : false,
               "exportOptions" : {
                 "shouldTrim" : false,
                 "includedLayerIds" : [
@@ -190,35 +191,13 @@
 
                 ]
               },
-              "hasClickThrough" : false,
+              "layerListExpandedType" : 0,
               "windingRule" : 1,
               "isFlippedVertical" : false,
-              "nameIsFixed" : false,
+              "clippingMaskMode" : 0,
               "name" : "Rectangle",
               "isVisible" : true,
-              "resizingType" : 0,
-              "userInfo" : {
-                "com.invision.prototype" : {
-                  "closeOnClickOutside" : 1,
-                  "stayOnTargetScreen" : 0,
-                  "fixOverlayPosition" : 1,
-                  "openURLInNewWindow" : 0,
-                  "reverseTransitionOnClose" : 1,
-                  "gesture" : 7,
-                  "overlayPosition" : 0,
-                  "scrollToPosition" : 0,
-                  "maintainScrollPositionAfterGesture" : 0,
-                  "smoothScrolling" : 0,
-                  "overlayTransition" : 0,
-                  "redirectAfter" : 0,
-                  "componentType" : "SRLink",
-                  "backgroundOpacity" : 0,
-                  "linkType" : 0,
-                  "transition" : 0,
-                  "targetArtboardID" : "2090A2BD-F1FE-486C-A5E0-1F330C525005",
-                  "maintainScrollPositionAfterRedirect" : 0
-                }
-              },
+              "hasClippingMask" : false,
               "layers" : [
                 {
                   "isFlippedHorizontal" : false,
@@ -295,16 +274,38 @@
                       "hasCurveFrom" : false
                     }
                   ],
-                  "shouldBreakMaskChain" : false,
-                  "pointRadiusBehaviour" : 1,
                   "fixedRadius" : 0,
+                  "pointRadiusBehaviour" : 1,
+                  "shouldBreakMaskChain" : false,
                   "_class" : "rectangle",
-                  "resizingConstraint" : 63,
-                  "booleanOperation" : -1
+                  "booleanOperation" : -1,
+                  "resizingConstraint" : 63
                 }
               ],
-              "clippingMaskMode" : 0,
-              "hasClippingMask" : false,
+              "nameIsFixed" : false,
+              "resizingType" : 0,
+              "userInfo" : {
+                "com.invision.prototype" : {
+                  "closeOnClickOutside" : 1,
+                  "maintainScrollPositionAfterRedirect" : 0,
+                  "stayOnTargetScreen" : 0,
+                  "openURLInNewWindow" : 0,
+                  "reverseTransitionOnClose" : 1,
+                  "gesture" : 7,
+                  "overlayPosition" : 0,
+                  "redirectAfter" : 0,
+                  "componentType" : "SRLink",
+                  "maintainScrollPositionAfterGesture" : 1,
+                  "overlayTransition" : 0,
+                  "scrollToPosition" : 0,
+                  "smoothScrolling" : 0,
+                  "backgroundOpacity" : 0,
+                  "linkType" : 0,
+                  "targetArtboardID" : "2090A2BD-F1FE-486C-A5E0-1F330C525005",
+                  "transition" : 3,
+                  "fixOverlayPosition" : 1
+                }
+              },
               "isLocked" : false,
               "shouldBreakMaskChain" : false,
               "_class" : "shapeGroup",
@@ -327,30 +328,30 @@
                       "_class" : "paragraphStyle",
                       "alignment" : 2
                     },
-                    "MSAttributedStringFontAttribute" : {
-                      "attributes" : {
-                        "name" : "Trattatello",
-                        "size" : 48
-                      },
-                      "_class" : "fontDescriptor"
-                    },
                     "MSAttributedStringColorAttribute" : {
                       "red" : 0.29022163152694702,
                       "_class" : "color",
                       "alpha" : 1,
                       "blue" : 0.29023745656013489,
                       "green" : 0.29017528891563421
+                    },
+                    "MSAttributedStringFontAttribute" : {
+                      "attributes" : {
+                        "name" : "Trattatello",
+                        "size" : 48
+                      },
+                      "_class" : "fontDescriptor"
                     }
                   }
                 },
                 "endDecorationType" : 0
               },
-              "rotation" : 0,
+              "glyphBounds" : "{{33, 27}, {53, 29}}",
               "frame" : {
                 "_class" : "rect",
                 "height" : 77,
-                "do_objectID" : "BF3ABEFF-E674-4433-B370-3F52ECB33653",
                 "constrainProportions" : false,
+                "do_objectID" : "BF3ABEFF-E674-4433-B370-3F52ECB33653",
                 "x" : 0,
                 "width" : 120,
                 "y" : 0
@@ -369,7 +370,7 @@
 
                 ]
               },
-              "glyphBounds" : "{{33, 27}, {53, 29}}",
+              "rotation" : 0,
               "dontSynchroniseWithSymbol" : false,
               "lineSpacingBehaviour" : 2,
               "textBehaviour" : 2,
@@ -380,25 +381,15 @@
               "resizingType" : 0,
               "isLocked" : false,
               "attributedString" : {
-                "string" : "GO",
-                "_class" : "attributedString",
                 "attributes" : [
                   {
                     "length" : 2,
                     "_class" : "stringAttribute",
-                    "location" : 0,
                     "attributes" : {
                       "paragraphStyle" : {
                         "allowsDefaultTighteningForTruncation" : 0,
                         "_class" : "paragraphStyle",
                         "alignment" : 2
-                      },
-                      "MSAttributedStringFontAttribute" : {
-                        "attributes" : {
-                          "name" : "Trattatello",
-                          "size" : 48
-                        },
-                        "_class" : "fontDescriptor"
                       },
                       "MSAttributedStringColorAttribute" : {
                         "red" : 0.29022163152694702,
@@ -406,10 +397,20 @@
                         "alpha" : 1,
                         "blue" : 0.29023745656013489,
                         "green" : 0.29017528891563421
+                      },
+                      "MSAttributedStringFontAttribute" : {
+                        "attributes" : {
+                          "name" : "Trattatello",
+                          "size" : 48
+                        },
+                        "_class" : "fontDescriptor"
                       }
-                    }
+                    },
+                    "location" : 0
                   }
-                ]
+                ],
+                "_class" : "attributedString",
+                "string" : "GO"
               },
               "shouldBreakMaskChain" : false,
               "_class" : "text",
@@ -425,7 +426,15 @@
             "layerOptions" : 0,
             "_class" : "exportOptions",
             "exportFormats" : [
-
+              {
+                "_class" : "exportFormat",
+                "absoluteSize" : 0,
+                "fileFormat" : "png",
+                "namingScheme" : 0,
+                "visibleScaleType" : 0,
+                "name" : "",
+                "scale" : 1
+              }
             ]
           },
           "frame" : {
@@ -437,10 +446,10 @@
             "width" : 120
           },
           "isFlippedVertical" : false,
-          "isVisible" : true,
-          "_class" : "group",
-          "resizingConstraint" : 63,
           "hasClickThrough" : false,
+          "_class" : "group",
+          "isVisible" : true,
+          "resizingConstraint" : 63,
           "isFlippedHorizontal" : false,
           "resizingType" : 0,
           "isLocked" : false,
@@ -450,19 +459,20 @@
           "name" : "Group"
         }
       ],
+      "resizingType" : 0,
       "isLocked" : false,
-      "shouldBreakMaskChain" : true,
       "isFlowHome" : false,
+      "shouldBreakMaskChain" : true,
       "presetDictionary" : {
-        "name" : "iPhone 8",
-        "offersLandscapeVariant" : 1,
         "width" : 375,
+        "offersLandscapeVariant" : 1,
+        "height" : 667,
         "allowResizedMatching" : 1,
-        "height" : 667
+        "name" : "iPhone 8"
       },
       "_class" : "artboard",
-      "resizingConstraint" : 63,
-      "includeBackgroundColorInExport" : true
+      "includeBackgroundColorInExport" : true,
+      "resizingConstraint" : 63
     },
     {
       "isFlippedHorizontal" : false,
@@ -472,7 +482,13 @@
         "miterLimit" : 10,
         "endDecorationType" : 0
       },
-      "rotation" : 0,
+      "horizontalRulerData" : {
+        "base" : 0,
+        "_class" : "rulerData",
+        "guides" : [
+
+        ]
+      },
       "frame" : {
         "x" : 584,
         "y" : 107,
@@ -482,7 +498,7 @@
         "width" : 375
       },
       "do_objectID" : "2090A2BD-F1FE-486C-A5E0-1F330C525005",
-      "layerListExpandedType" : 0,
+      "hasClickThrough" : true,
       "exportOptions" : {
         "shouldTrim" : false,
         "includedLayerIds" : [
@@ -491,18 +507,20 @@
         "layerOptions" : 0,
         "_class" : "exportOptions",
         "exportFormats" : [
-
+          {
+            "_class" : "exportFormat",
+            "absoluteSize" : 0,
+            "fileFormat" : "png",
+            "namingScheme" : 0,
+            "visibleScaleType" : 0,
+            "name" : "",
+            "scale" : 1
+          }
         ]
       },
-      "hasClickThrough" : true,
       "hasBackgroundColor" : false,
-      "horizontalRulerData" : {
-        "base" : 0,
-        "_class" : "rulerData",
-        "guides" : [
-
-        ]
-      },
+      "includeInCloudUpload" : true,
+      "layerListExpandedType" : 0,
       "backgroundColor" : {
         "red" : 1,
         "_class" : "color",
@@ -510,8 +528,8 @@
         "blue" : 1,
         "green" : 1
       },
-      "includeInCloudUpload" : true,
       "resizesContent" : false,
+      "rotation" : 0,
       "verticalRulerData" : {
         "base" : 0,
         "_class" : "rulerData",
@@ -523,7 +541,6 @@
       "nameIsFixed" : false,
       "name" : "iPhone 8 Copy",
       "isVisible" : true,
-      "resizingType" : 0,
       "layers" : [
         {
           "isFlippedHorizontal" : false,
@@ -540,25 +557,25 @@
                   "_class" : "paragraphStyle",
                   "alignment" : 2
                 },
-                "MSAttributedStringFontAttribute" : {
-                  "attributes" : {
-                    "name" : "Trattatello",
-                    "size" : 48
-                  },
-                  "_class" : "fontDescriptor"
-                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0.29022163152694702,
                   "_class" : "color",
                   "alpha" : 1,
                   "blue" : 0.29023745656013489,
                   "green" : 0.29017528891563421
+                },
+                "MSAttributedStringFontAttribute" : {
+                  "attributes" : {
+                    "name" : "Trattatello",
+                    "size" : 48
+                  },
+                  "_class" : "fontDescriptor"
                 }
               }
             },
             "endDecorationType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{1, 12}, {91, 45}}",
           "frame" : {
             "x" : 142,
             "y" : 162,
@@ -580,7 +597,7 @@
 
             ]
           },
-          "glyphBounds" : "{{1, 12}, {91, 45}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
@@ -591,25 +608,15 @@
           "resizingType" : 0,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "Hello",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 5,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
                   "paragraphStyle" : {
                     "allowsDefaultTighteningForTruncation" : 0,
                     "_class" : "paragraphStyle",
                     "alignment" : 2
-                  },
-                  "MSAttributedStringFontAttribute" : {
-                    "attributes" : {
-                      "name" : "Trattatello",
-                      "size" : 48
-                    },
-                    "_class" : "fontDescriptor"
                   },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0.29022163152694702,
@@ -617,10 +624,20 @@
                     "alpha" : 1,
                     "blue" : 0.29023745656013489,
                     "green" : 0.29017528891563421
+                  },
+                  "MSAttributedStringFontAttribute" : {
+                    "attributes" : {
+                      "name" : "Trattatello",
+                      "size" : 48
+                    },
+                    "_class" : "fontDescriptor"
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "Hello"
           },
           "shouldBreakMaskChain" : false,
           "_class" : "text",
@@ -628,21 +645,28 @@
           "automaticallyDrawOnUnderlyingPath" : false
         }
       ],
+      "resizingType" : 0,
       "isLocked" : false,
-      "shouldBreakMaskChain" : true,
       "isFlowHome" : false,
+      "shouldBreakMaskChain" : true,
       "presetDictionary" : {
-        "name" : "iPhone 8",
-        "offersLandscapeVariant" : 1,
         "width" : 375,
+        "offersLandscapeVariant" : 1,
+        "height" : 667,
         "allowResizedMatching" : 1,
-        "height" : 667
+        "name" : "iPhone 8"
       },
       "_class" : "artboard",
-      "resizingConstraint" : 63,
-      "includeBackgroundColorInExport" : true
+      "includeBackgroundColorInExport" : true,
+      "resizingConstraint" : 63
     }
   ],
+  "resizingType" : 0,
+  "userInfo" : {
+    "com.invision.prototype" : {
+      "lastUsedGestureID" : 7
+    }
+  },
   "isLocked" : false,
   "shouldBreakMaskChain" : false,
   "_class" : "page",
