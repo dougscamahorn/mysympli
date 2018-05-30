@@ -1,0 +1,1411 @@
+{
+  "layerStyles" : {
+    "objects" : [
+      {
+        "do_objectID" : "DE9F2226-9EDA-4AEF-A7BB-C1A2470C4CCD",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 8,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 3,
+              "offsetX" : 0,
+              "spread" : -2,
+              "blurRadius" : 3,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 3,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 4,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "DE9F2226-9EDA-4AEF-A7BB-C1A2470C4CCD",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 03dp"
+      },
+      {
+        "do_objectID" : "164E2811-6D07-4048-B988-5F36CF82F769",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 5,
+              "offsetX" : 0,
+              "spread" : -3,
+              "blurRadius" : 5,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 3,
+              "offsetX" : 0,
+              "spread" : 2,
+              "blurRadius" : 14,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 8,
+              "offsetX" : 0,
+              "spread" : 1,
+              "blurRadius" : 10,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "164E2811-6D07-4048-B988-5F36CF82F769",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 08dp"
+      },
+      {
+        "do_objectID" : "031400F4-7E18-4A62-B655-A008E0A505DD",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 8,
+              "offsetX" : 0,
+              "spread" : -5,
+              "blurRadius" : 10,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 6,
+              "offsetX" : 0,
+              "spread" : 5,
+              "blurRadius" : 30,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 16,
+              "offsetX" : 0,
+              "spread" : 2,
+              "blurRadius" : 24,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "031400F4-7E18-4A62-B655-A008E0A505DD",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 16dp"
+      },
+      {
+        "do_objectID" : "6B59E4B4-41E3-4BA0-833B-1FAD862F0802",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 5,
+              "offsetX" : 0,
+              "spread" : -3,
+              "blurRadius" : 6,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 3,
+              "offsetX" : 0,
+              "spread" : 2,
+              "blurRadius" : 16,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 9,
+              "offsetX" : 0,
+              "spread" : 1,
+              "blurRadius" : 12,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "6B59E4B4-41E3-4BA0-833B-1FAD862F0802",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 09dp"
+      },
+      {
+        "do_objectID" : "B86A76CD-E6B2-42A8-BD71-F6114EB1FBEA",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 3,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 2,
+              "offsetX" : 0,
+              "spread" : -1,
+              "blurRadius" : 1,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 1,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "B86A76CD-E6B2-42A8-BD71-F6114EB1FBEA",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 01dp"
+      },
+      {
+        "do_objectID" : "FCDEC95D-C509-40D4-B8DC-9641C25BBF8F",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 11,
+              "offsetX" : 0,
+              "spread" : -7,
+              "blurRadius" : 15,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 9,
+              "offsetX" : 0,
+              "spread" : 8,
+              "blurRadius" : 46,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 24,
+              "offsetX" : 0,
+              "spread" : 3,
+              "blurRadius" : 38,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "FCDEC95D-C509-40D4-B8DC-9641C25BBF8F",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 24dp"
+      },
+      {
+        "do_objectID" : "9866F584-FC65-401A-BBCB-486A5A36FBBF",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 5,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 3,
+              "offsetX" : 0,
+              "spread" : -2,
+              "blurRadius" : 1,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 2,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 2,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "9866F584-FC65-401A-BBCB-486A5A36FBBF",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 02dp"
+      },
+      {
+        "do_objectID" : "EFE5782D-43F2-4280-8CA2-C5568577474F",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 7,
+              "offsetX" : 0,
+              "spread" : -4,
+              "blurRadius" : 8,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 5,
+              "offsetX" : 0,
+              "spread" : 4,
+              "blurRadius" : 22,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 12,
+              "offsetX" : 0,
+              "spread" : 2,
+              "blurRadius" : 17,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "EFE5782D-43F2-4280-8CA2-C5568577474F",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 12dp"
+      },
+      {
+        "do_objectID" : "E6F98E2E-CA3B-4697-9184-A28EE1794931",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 3,
+              "offsetX" : 0,
+              "spread" : -1,
+              "blurRadius" : 5,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 18,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 6,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 10,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "E6F98E2E-CA3B-4697-9184-A28EE1794931",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 06dp"
+      },
+      {
+        "do_objectID" : "D2927F22-7C77-4F79-862E-42CF4E902A66",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 2,
+              "offsetX" : 0,
+              "spread" : -1,
+              "blurRadius" : 4,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 10,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 4,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 5,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "D2927F22-7C77-4F79-862E-42CF4E902A66",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 04dp"
+      },
+      {
+        "do_objectID" : "53A2FB4C-5462-404A-983B-BD0921D56DB0",
+        "value" : {
+          "endDecorationType" : 0,
+          "startDecorationType" : 0,
+          "sharedObjectID" : "53A2FB4C-5462-404A-983B-BD0921D56DB0",
+          "_class" : "style",
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ 00dp"
+      },
+      {
+        "do_objectID" : "23574366-067A-49BF-8986-F2C110801421",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : true,
+              "thickness" : 1,
+              "position" : 2
+            }
+          ],
+          "sharedObjectID" : "23574366-067A-49BF-8986-F2C110801421",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Outlined \/ 00dp"
+      },
+      {
+        "do_objectID" : "6FDF195A-73E1-4DBF-949C-455123BA81A4",
+        "value" : {
+          "_class" : "style",
+          "borders" : [
+            {
+              "color" : {
+                "red" : 0.38431372549019638,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0.93333333333333335,
+                "green" : 0
+              },
+              "fillType" : 0,
+              "_class" : "border",
+              "isEnabled" : true,
+              "thickness" : 1,
+              "position" : 2
+            }
+          ],
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 1,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 3,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 2,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 2,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 0,
+              "offsetX" : 0,
+              "spread" : 0,
+              "blurRadius" : 2,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "6FDF195A-73E1-4DBF-949C-455123BA81A4",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Outlined \/ Selected"
+      },
+      {
+        "do_objectID" : "D504BA6F-27C8-4106-BCC6-CA2F3CA78073",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 2,
+              "offsetX" : 2,
+              "spread" : -1,
+              "blurRadius" : 4,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 1,
+              "offsetX" : 1,
+              "spread" : 0,
+              "blurRadius" : 10,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 4,
+              "offsetX" : 4,
+              "spread" : 0,
+              "blurRadius" : 5,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "D504BA6F-27C8-4106-BCC6-CA2F3CA78073",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ Diamond FAB 04dp "
+      },
+      {
+        "do_objectID" : "6BBFC2D2-BF71-4B7A-905B-5A4F6D5E1E35",
+        "value" : {
+          "_class" : "style",
+          "shadows" : [
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.20000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 5,
+              "offsetX" : 5,
+              "spread" : -3,
+              "blurRadius" : 5,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.12,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 3,
+              "offsetX" : 3,
+              "spread" : 2,
+              "blurRadius" : 14,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            },
+            {
+              "_class" : "shadow",
+              "color" : {
+                "red" : 0,
+                "_class" : "color",
+                "alpha" : 0.14000000000000001,
+                "blue" : 0,
+                "green" : 0
+              },
+              "offsetY" : 8,
+              "offsetX" : 8,
+              "spread" : 1,
+              "blurRadius" : 10,
+              "contextSettings" : {
+                "opacity" : 1,
+                "_class" : "graphicsContextSettings",
+                "blendMode" : 0
+              },
+              "isEnabled" : true
+            }
+          ],
+          "sharedObjectID" : "6BBFC2D2-BF71-4B7A-905B-5A4F6D5E1E35",
+          "startDecorationType" : 0,
+          "endDecorationType" : 0,
+          "fills" : [
+            {
+              "_class" : "fill",
+              "color" : {
+                "red" : 0.98039215686274506,
+                "_class" : "color",
+                "alpha" : 1,
+                "blue" : 0.98039215686274506,
+                "green" : 0.98039215686274506
+              },
+              "patternTileScale" : 1,
+              "fillType" : 0,
+              "noiseIntensity" : 0,
+              "patternFillType" : 1,
+              "noiseIndex" : 0,
+              "isEnabled" : true
+            }
+          ],
+          "miterLimit" : 10
+        },
+        "_class" : "sharedStyle",
+        "name" : "Elevation \/ Shadow \/ Diamond FAB 08dp"
+      }
+    ],
+    "_class" : "sharedStyleContainer"
+  },
+  "assets" : {
+    "gradients" : [
+
+    ],
+    "colors" : [
+      {
+        "red" : 0.59032206632653061,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.59032206632653061,
+        "green" : 0.59032206632653061
+      },
+      {
+        "red" : 0.93651679421768708,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.43328493838723808,
+        "green" : 0.41632206684239159
+      },
+      {
+        "red" : 0.12941176470588239,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.12941176470588239,
+        "green" : 0.12941176470588239
+      },
+      {
+        "red" : 0.33725490196078428,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 1,
+        "green" : 0.60000000000000009
+      },
+      {
+        "red" : 1,
+        "_class" : "color",
+        "alpha" : 1,
+        "blue" : 0.33725490196078428,
+        "green" : 0.51127051364023868
+      }
+    ],
+    "_class" : "assetCollection",
+    "imageCollection" : {
+      "images" : {
+
+      },
+      "_class" : "imageCollection"
+    },
+    "images" : [
+
+    ]
+  },
+  "pages" : [
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/C6F9C42C-15EF-48E8-8606-B9BC9CFD105D"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/52AED2C9-45AA-4FBA-A32B-8A620B126DFC"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/8874968F-6E2F-4391-ACAF-496AC7B92DD6"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/BE377B6F-B858-4783-93F4-53EBD7F120F3"
+    },
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/92653F7D-9D5C-4166-ADD1-509AA6522EDA"
+    }
+  ],
+  "foreignSymbols" : [
+
+  ],
+  "currentPageIndex" : 2,
+  "_class" : "document",
+  "foreignLayerStyles" : [
+
+  ],
+  "colorSpace" : 0,
+  "layerTextStyles" : {
+    "do_objectID" : "B6E5E475-4554-49A9-B5AE-654435737390",
+    "_class" : "sharedTextStyleContainer",
+    "objects" : [
+
+    ]
+  },
+  "layerSymbols" : {
+    "objects" : [
+
+    ],
+    "_class" : "symbolContainer"
+  },
+  "do_objectID" : "EA9A3456-D205-45BC-B018-87FAFB3282A4",
+  "foreignTextStyles" : [
+
+  ],
+  "userInfo" : {
+    "com.invisionlabs.sync" : {
+      "metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.google.ux.material.spec_tools" : {
+      "basedOnTemplate" : "BASELINE",
+      "pluginVersion" : "1.2.197068241",
+      "theme" : "{\"lastUpdatedUtc\":\"2018-05-29 17:48:13\",\"palettes\":{\"PRIMARY\":{\"colors\":[{\"red\":0.9896127839188392,\"green\":0.96783571870403,\"blue\":0.8744950051027541,\"alpha\":1},{\"red\":0.9746266620856373,\"green\":0.9137709421977469,\"blue\":0.6823297846372847,\"alpha\":1},{\"red\":0.9577041507612422,\"green\":0.8584649651018322,\"blue\":0.4750867323927513,\"alpha\":1},{\"red\":0.941560735987349,\"green\":0.8082072628423269,\"blue\":0.25175962972834276,\"alpha\":1},{\"red\":0.9333333333333333,\"green\":0.76140350877193,\"blue\":0,\"alpha\":1},{\"red\":0.926728612844317,\"green\":0.7211789399402849,\"blue\":0,\"alpha\":1},{\"red\":0.9305197835665312,\"green\":0.6678629320425533,\"blue\":0,\"alpha\":1},{\"red\":0.9348345966588242,\"green\":0.5944694531124253,\"blue\":0,\"alpha\":1},{\"red\":0.9372275641548202,\"green\":0.5274611588859133,\"blue\":0,\"alpha\":1},{\"red\":0.9402266870189948,\"green\":0.40106948916065055,\"blue\":0,\"alpha\":1}],\"mainColorIndex\":4},\"SECONDARY\":{\"colors\":[{\"red\":0.6549019607843137,\"green\":1,\"blue\":0.9803921568627451,\"alpha\":1},{\"red\":0.44313725490196076,\"green\":0.9372549019607843,\"blue\":0.8745098039215686,\"alpha\":1},{\"red\":0.011764705882352941,\"green\":0.8549019607843137,\"blue\":0.7686274509803922,\"alpha\":1},{\"red\":0,\"green\":0.7686274509803922,\"blue\":0.6666666666666666,\"alpha\":1},{\"red\":0,\"green\":0.7019607843137254,\"blue\":0.5882352941176471,\"alpha\":1},{\"red\":0,\"green\":0.6352941176470588,\"blue\":0.5098039215686274,\"alpha\":1},{\"red\":0,\"green\":0.5843137254901961,\"blue\":0.4588235294117647,\"alpha\":1},{\"red\":0,\"green\":0.5176470588235295,\"blue\":0.39215686274509803,\"alpha\":1},{\"red\":0,\"green\":0.4549019607843137,\"blue\":0.33725490196078434,\"alpha\":1},{\"red\":0,\"green\":0.3411764705882353,\"blue\":0.2196078431372549,\"alpha\":1}],\"mainColorIndex\":2},\"SURFACE\":{\"colors\":[{\"red\":1,\"green\":1,\"blue\":1,\"alpha\":1},{\"red\":0.9807089859888657,\"green\":0.9807090923474681,\"blue\":0.9807090166169335,\"alpha\":1},{\"red\":0.9614896126428832,\"green\":0.9614897160775632,\"blue\":0.9614896423314422,\"alpha\":1},{\"red\":0.9423426493624547,\"green\":0.942342746714893,\"blue\":0.9423426768771614,\"alpha\":1},{\"red\":0.8692227753206838,\"green\":0.8692228576649179,\"blue\":0.8692227977439545,\"alpha\":1},{\"red\":0.762033684573245,\"green\":0.7620337541261238,\"blue\":0.7620337031299386,\"alpha\":1},{\"red\":0.5902992747236278,\"green\":0.5902993277528529,\"blue\":0.5902992886361145,\"alpha\":1},{\"red\":0.504871739011006,\"green\":0.5048717839890382,\"blue\":0.504871750679026,\"alpha\":1},{\"red\":0.37657369588808237,\"green\":0.3765737282854163,\"blue\":0.37657370399423673,\"alpha\":1},{\"red\":0.2366709262652505,\"green\":0.23667094522274518,\"blue\":0.2366709305962576,\"alpha\":1}],\"mainColorIndex\":0}},\"cornerType\":\"ROUNDED\",\"cornerSizesDp\":[0,4,0,0],\"textStyles\":{\"HEADLINE_1\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Light\",\"traits\":0,\"weight\":3},\"metrics\":{\"fontSize\":96}},\"HEADLINE_2\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Light\",\"traits\":0,\"weight\":3},\"metrics\":{\"fontSize\":60}},\"HEADLINE_3\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":48}},\"HEADLINE_4\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":34}},\"HEADLINE_5\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":24}},\"HEADLINE_6\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},\"metrics\":{\"fontSize\":20}},\"SUBTITLE_1\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":16}},\"SUBTITLE_2\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},\"metrics\":{\"fontSize\":14}},\"BODY_1\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":16}},\"BODY_2\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":14}},\"CAPTION\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":12}},\"BUTTON\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},\"metrics\":{\"fontSize\":14}},\"OVERLINE\":{\"font\":{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},\"metrics\":{\"fontSize\":12}}},\"selectedFontFamilies\":[{\"name\":\"Roboto\",\"fonts\":[{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Italic\",\"traits\":1,\"weight\":5},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Light\",\"traits\":0,\"weight\":3},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Light Italic\",\"traits\":1,\"weight\":3},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Medium Italic\",\"traits\":1,\"weight\":7},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Bold\",\"traits\":2,\"weight\":9},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Bold Italic\",\"traits\":3,\"weight\":9},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Black\",\"traits\":2,\"weight\":11},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Black Italic\",\"traits\":3,\"weight\":11},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Thin\",\"traits\":65600,\"weight\":3},{\"fontFamilyName\":\"Roboto\",\"fontName\":\"Thin Italic\",\"traits\":65,\"weight\":3}]}]}",
+      "themeMetadataVersion" : 4
+    }
+  }
+}
