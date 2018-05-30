@@ -1,0 +1,38 @@
+{
+  "commit" : "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+  "pagesAndArtboards" : {
+    "3D076D4A-45BB-4433-937E-C2D0DD1F20FD" : {
+      "name" : "Page 1",
+      "artboards" : {
+        "A4E94CBF-F6AB-4515-B243-7DDEC13ED250" : {
+          "name" : "iPhone 8"
+        },
+        "F1CD2B57-6831-4E18-959C-1FB4B13D5990" : {
+          "name" : "iPhone SE"
+        }
+      }
+    }
+  },
+  "version" : 103,
+  "fonts" : [
+
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 55047,
+    "appVersion" : "50.2",
+    "commit" : "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 103,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.55047"
+  ],
+  "appVersion" : "50.2",
+  "build" : 55047
+}
