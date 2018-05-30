@@ -1,0 +1,63 @@
+{
+  "layerStyles" : {
+    "objects" : [
+
+    ],
+    "_class" : "sharedStyleContainer"
+  },
+  "assets" : {
+    "gradients" : [
+
+    ],
+    "colors" : [
+
+    ],
+    "_class" : "assetCollection",
+    "imageCollection" : {
+      "images" : {
+
+      },
+      "_class" : "imageCollection"
+    },
+    "images" : [
+
+    ]
+  },
+  "pages" : [
+    {
+      "_ref_class" : "MSImmutablePage",
+      "_class" : "MSJSONFileReference",
+      "_ref" : "pages\/A90B750E-760F-4AB6-AF34-D5678A85FE29"
+    }
+  ],
+  "foreignSymbols" : [
+
+  ],
+  "currentPageIndex" : 0,
+  "_class" : "document",
+  "foreignLayerStyles" : [
+
+  ],
+  "colorSpace" : 0,
+  "layerTextStyles" : {
+    "objects" : [
+
+    ],
+    "_class" : "sharedTextStyleContainer"
+  },
+  "layerSymbols" : {
+    "objects" : [
+
+    ],
+    "_class" : "symbolContainer"
+  },
+  "do_objectID" : "E09BC604-045E-4087-A59F-EB2F463438EA",
+  "foreignTextStyles" : [
+
+  ],
+  "userInfo" : {
+    "com.invisionlabs.sync" : {
+      "metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
