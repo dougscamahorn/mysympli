@@ -14,25 +14,25 @@
     ]
   },
   "frame" : {
-    "y" : 0,
-    "width" : 300,
-    "_class" : "rect",
     "x" : 0,
+    "y" : 0,
+    "_class" : "rect",
     "constrainProportions" : false,
-    "height" : 300
+    "height" : 300,
+    "width" : 300
   },
   "do_objectID" : "3D076D4A-45BB-4433-937E-C2D0DD1F20FD",
   "hasClickThrough" : true,
   "exportOptions" : {
-    "exportFormats" : [
-
-    ],
+    "shouldTrim" : false,
     "includedLayerIds" : [
 
     ],
     "layerOptions" : 0,
     "_class" : "exportOptions",
-    "shouldTrim" : false
+    "exportFormats" : [
+
+    ]
   },
   "includeInCloudUpload" : true,
   "layerListExpandedType" : 0,
@@ -65,16 +65,22 @@
         ]
       },
       "frame" : {
-        "y" : 109,
-        "width" : 375,
-        "_class" : "rect",
         "x" : 416,
+        "y" : 109,
+        "_class" : "rect",
         "constrainProportions" : false,
-        "height" : 667
+        "height" : 667,
+        "width" : 375
       },
       "do_objectID" : "A4E94CBF-F6AB-4515-B243-7DDEC13ED250",
       "hasClickThrough" : true,
       "exportOptions" : {
+        "shouldTrim" : false,
+        "includedLayerIds" : [
+
+        ],
+        "layerOptions" : 0,
+        "_class" : "exportOptions",
         "exportFormats" : [
           {
             "_class" : "exportFormat",
@@ -85,13 +91,7 @@
             "name" : "",
             "scale" : 1
           }
-        ],
-        "includedLayerIds" : [
-
-        ],
-        "layerOptions" : 0,
-        "_class" : "exportOptions",
-        "shouldTrim" : false
+        ]
       },
       "hasBackgroundColor" : false,
       "includeInCloudUpload" : true,
@@ -128,25 +128,25 @@
           },
           "rotation" : 0,
           "frame" : {
-            "y" : 170,
-            "width" : 96,
-            "_class" : "rect",
             "x" : 140,
+            "y" : 170,
+            "_class" : "rect",
             "constrainProportions" : false,
-            "height" : 36
+            "height" : 36,
+            "width" : 96
           },
           "do_objectID" : "A13BD7AD-61B6-40BC-A943-5A48C1E5DE17",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "includedLayerIds" : [
 
             ],
             "layerOptions" : 0,
             "_class" : "exportOptions",
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
           "symbolID" : "39D7F511-9723-4934-BFB5-C014FBBA5788",
           "isFlippedVertical" : false,
@@ -167,22 +167,21 @@
         {
           "isFlippedHorizontal" : false,
           "style" : {
-            "endDecorationType" : 0,
             "startDecorationType" : 0,
             "borders" : [
               {
+                "thickness" : 1,
+                "fillType" : 0,
+                "_class" : "border",
+                "isEnabled" : true,
+                "position" : 1,
                 "color" : {
                   "red" : 0.59199999999999997,
                   "_class" : "color",
                   "alpha" : 1,
                   "blue" : 0.59199999999999997,
                   "green" : 0.59199999999999997
-                },
-                "fillType" : 0,
-                "_class" : "border",
-                "isEnabled" : true,
-                "thickness" : 1,
-                "position" : 1
+                }
               }
             ],
             "_class" : "style",
@@ -204,29 +203,30 @@
                 "isEnabled" : true
               }
             ],
-            "miterLimit" : 10
+            "miterLimit" : 10,
+            "endDecorationType" : 0
           },
           "rotation" : 0,
           "frame" : {
-            "y" : 270,
-            "width" : 255,
-            "_class" : "rect",
             "x" : 59,
+            "y" : 270,
+            "_class" : "rect",
             "constrainProportions" : true,
-            "height" : 255
+            "height" : 255,
+            "width" : 255
           },
           "do_objectID" : "1DB35B8E-B8B8-41F6-B042-6B285A5426DC",
           "hasClickThrough" : false,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "includedLayerIds" : [
 
             ],
             "layerOptions" : 0,
             "_class" : "exportOptions",
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
           "layerListExpandedType" : 1,
           "windingRule" : 1,
@@ -241,25 +241,25 @@
               "hasConvertedToNewRoundCorners" : true,
               "rotation" : 0,
               "frame" : {
-                "y" : 0,
-                "width" : 255,
-                "_class" : "rect",
                 "x" : 0,
+                "y" : 0,
+                "_class" : "rect",
                 "constrainProportions" : false,
-                "height" : 255
+                "height" : 255,
+                "width" : 255
               },
               "do_objectID" : "AEAD5410-AA20-46F6-93A6-BCAF4EDFB5FB",
               "layerListExpandedType" : 0,
               "exportOptions" : {
-                "exportFormats" : [
-
-                ],
+                "shouldTrim" : false,
                 "includedLayerIds" : [
 
                 ],
                 "layerOptions" : 0,
                 "_class" : "exportOptions",
-                "shouldTrim" : false
+                "exportFormats" : [
+
+                ]
               },
               "edited" : false,
               "isFlippedVertical" : false,
@@ -273,42 +273,42 @@
                 {
                   "_class" : "curvePoint",
                   "curveMode" : 1,
-                  "hasCurveFrom" : false,
+                  "hasCurveTo" : false,
                   "curveFrom" : "{0, 0}",
                   "point" : "{0, 0}",
                   "cornerRadius" : 0,
                   "curveTo" : "{0, 0}",
-                  "hasCurveTo" : false
+                  "hasCurveFrom" : false
                 },
                 {
                   "_class" : "curvePoint",
                   "curveMode" : 1,
-                  "hasCurveFrom" : false,
+                  "hasCurveTo" : false,
                   "curveFrom" : "{1, 0}",
                   "point" : "{1, 0}",
                   "cornerRadius" : 0,
                   "curveTo" : "{1, 0}",
-                  "hasCurveTo" : false
+                  "hasCurveFrom" : false
                 },
                 {
                   "_class" : "curvePoint",
                   "curveMode" : 1,
-                  "hasCurveFrom" : false,
+                  "hasCurveTo" : false,
                   "curveFrom" : "{1, 1}",
                   "point" : "{1, 1}",
                   "cornerRadius" : 0,
                   "curveTo" : "{1, 1}",
-                  "hasCurveTo" : false
+                  "hasCurveFrom" : false
                 },
                 {
                   "_class" : "curvePoint",
                   "curveMode" : 1,
-                  "hasCurveFrom" : false,
+                  "hasCurveTo" : false,
                   "curveFrom" : "{0, 1}",
                   "point" : "{0, 1}",
                   "cornerRadius" : 0,
                   "curveTo" : "{0, 1}",
-                  "hasCurveTo" : false
+                  "hasCurveFrom" : false
                 }
               ],
               "fixedRadius" : 0,
@@ -325,6 +325,79 @@
           "shouldBreakMaskChain" : false,
           "_class" : "shapeGroup",
           "resizingConstraint" : 63
+        },
+        {
+          "isFlippedHorizontal" : false,
+          "verticalSpacing" : 0,
+          "style" : {
+            "do_objectID" : "DF156E01-56F3-475E-A2C2-ABD22C3BAFCC",
+            "startDecorationType" : 0,
+            "_class" : "style",
+            "miterLimit" : 10,
+            "endDecorationType" : 0
+          },
+          "rotation" : 0,
+          "frame" : {
+            "_class" : "rect",
+            "height" : 64,
+            "constrainProportions" : false,
+            "do_objectID" : "56403145-5C80-4F5F-95BC-82BDECE4535B",
+            "x" : 0,
+            "width" : 375,
+            "y" : 0
+          },
+          "do_objectID" : "7072A1A5-2C66-471B-9A40-34E67E86B39B",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "do_objectID" : "CF6162FE-5725-4F67-A5E6-CEBB2FFE54E1",
+            "includedLayerIds" : [
+
+            ],
+            "_class" : "exportOptions",
+            "layerOptions" : 0,
+            "exportFormats" : [
+
+            ]
+          },
+          "symbolID" : "75ED286D-2F5D-423B-B124-39792DCE9DFA",
+          "isFlippedVertical" : false,
+          "nameIsFixed" : false,
+          "name" : "Bars\/Navigation\/Navigation Bar",
+          "isVisible" : true,
+          "resizingType" : 0,
+          "horizontalSpacing" : 0,
+          "isLocked" : false,
+          "scale" : 1,
+          "shouldBreakMaskChain" : false,
+          "_class" : "symbolInstance",
+          "resizingConstraint" : 63,
+          "overrideValues" : [
+            {
+              "do_objectID" : "630B6D25-DCC1-4D46-90B4-75A4254A7DFF",
+              "overrideName" : "CFA94F56-7797-45F5-90C9-099ECFEE3900\/63764B60-DA82-4F00-AD07-ECEED3CFA585\/0AA6E386-D5A3-4889-8221-2D6C72CE0F14_stringValue",
+              "_class" : "overrideValue",
+              "value" : "Doug"
+            },
+            {
+              "do_objectID" : "2A540963-465B-47FC-8985-92A2423126F7",
+              "overrideName" : "DE113798-B12F-4DDE-87B2-6DFE6309C307\/06E91258-2554-48B2-A0FE-9D123BE9272C_stringValue",
+              "_class" : "overrideValue",
+              "value" : "Test"
+            },
+            {
+              "do_objectID" : "D12701A3-9F9F-4CD5-84AB-43454ADA7D50",
+              "overrideName" : "313F155C-D2E3-4674-97DC-1B64164403C4_symbolID",
+              "_class" : "overrideValue",
+              "value" : ""
+            },
+            {
+              "do_objectID" : "FFF8BFDD-94C3-462D-B193-A799581B3FD7",
+              "overrideName" : "D53252CF-4A65-4B79-BC33-E5EB0544E9DF\/646BAB5E-CE9E-4ABD-B206-CA40C28A88BD_stringValue",
+              "_class" : "overrideValue",
+              "value" : "Admin"
+            }
+          ]
         }
       ],
       "resizingType" : 0,
@@ -332,11 +405,11 @@
       "isFlowHome" : false,
       "shouldBreakMaskChain" : true,
       "presetDictionary" : {
-        "name" : "iPhone 8",
-        "offersLandscapeVariant" : 1,
         "width" : 375,
+        "offersLandscapeVariant" : 1,
         "height" : 667,
-        "allowResizedMatching" : 1
+        "allowResizedMatching" : 1,
+        "name" : "iPhone 8"
       },
       "_class" : "artboard",
       "includeBackgroundColorInExport" : true,
@@ -358,25 +431,25 @@
         ]
       },
       "frame" : {
-        "y" : 109,
-        "width" : 320,
-        "_class" : "rect",
         "x" : 891,
+        "y" : 109,
+        "_class" : "rect",
         "constrainProportions" : false,
-        "height" : 568
+        "height" : 568,
+        "width" : 320
       },
       "do_objectID" : "F1CD2B57-6831-4E18-959C-1FB4B13D5990",
       "hasClickThrough" : true,
       "exportOptions" : {
-        "exportFormats" : [
-
-        ],
+        "shouldTrim" : false,
         "includedLayerIds" : [
 
         ],
         "layerOptions" : 0,
         "_class" : "exportOptions",
-        "shouldTrim" : false
+        "exportFormats" : [
+
+        ]
       },
       "hasBackgroundColor" : false,
       "includeInCloudUpload" : true,
@@ -413,25 +486,25 @@
           },
           "rotation" : 0,
           "frame" : {
-            "y" : -3,
-            "width" : 320,
-            "_class" : "rect",
             "x" : 0,
+            "y" : -3,
+            "_class" : "rect",
             "constrainProportions" : false,
-            "height" : 64
+            "height" : 64,
+            "width" : 320
           },
           "do_objectID" : "752D0B2D-210B-4A57-9793-8B2F1B2D735D",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "includedLayerIds" : [
 
             ],
             "layerOptions" : 0,
             "_class" : "exportOptions",
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
           "symbolID" : "75ED286D-2F5D-423B-B124-39792DCE9DFA",
           "isFlippedVertical" : false,
@@ -455,23 +528,23 @@
             "_class" : "style",
             "borders" : [
               {
+                "thickness" : 1,
+                "fillType" : 0,
+                "_class" : "border",
+                "isEnabled" : true,
+                "position" : 1,
                 "color" : {
                   "red" : 0.59199999999999997,
                   "_class" : "color",
                   "alpha" : 1,
                   "blue" : 0.59199999999999997,
                   "green" : 0.59199999999999997
-                },
-                "fillType" : 0,
-                "_class" : "border",
-                "isEnabled" : true,
-                "thickness" : 1,
-                "position" : 1
+                }
               }
             ],
             "do_objectID" : "C8B212A3-5806-4FC4-91F9-636C75FEB446",
+            "miterLimit" : 10,
             "startDecorationType" : 0,
-            "endDecorationType" : 0,
             "fills" : [
               {
                 "_class" : "fill",
@@ -490,7 +563,7 @@
                 "isEnabled" : true
               }
             ],
-            "miterLimit" : 10
+            "endDecorationType" : 0
           },
           "rotation" : 0,
           "frame" : {
@@ -505,16 +578,16 @@
           "do_objectID" : "111CE91E-F5E2-4C9B-B1D8-669BCED53EC8",
           "hasClickThrough" : false,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "E9C3E207-D715-4249-891E-6B689009BE6E",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
           "layerListExpandedType" : 1,
           "windingRule" : 1,
@@ -540,16 +613,16 @@
               "do_objectID" : "89B5319F-1F46-4FFE-B690-8321031857F4",
               "layerListExpandedType" : 0,
               "exportOptions" : {
-                "exportFormats" : [
-
-                ],
+                "shouldTrim" : false,
                 "do_objectID" : "EC59E93D-19B6-4837-9E02-6AA58A83FA42",
                 "includedLayerIds" : [
 
                 ],
                 "_class" : "exportOptions",
                 "layerOptions" : 0,
-                "shouldTrim" : false
+                "exportFormats" : [
+
+                ]
               },
               "edited" : false,
               "isFlippedVertical" : false,
@@ -563,42 +636,42 @@
                 {
                   "_class" : "curvePoint",
                   "curveMode" : 1,
-                  "hasCurveFrom" : false,
+                  "hasCurveTo" : false,
                   "curveFrom" : "{0, 0}",
                   "point" : "{0, 0}",
                   "cornerRadius" : 0,
                   "curveTo" : "{0, 0}",
-                  "hasCurveTo" : false
+                  "hasCurveFrom" : false
                 },
                 {
                   "_class" : "curvePoint",
                   "curveMode" : 1,
-                  "hasCurveFrom" : false,
+                  "hasCurveTo" : false,
                   "curveFrom" : "{1, 0}",
                   "point" : "{1, 0}",
                   "cornerRadius" : 0,
                   "curveTo" : "{1, 0}",
-                  "hasCurveTo" : false
+                  "hasCurveFrom" : false
                 },
                 {
                   "_class" : "curvePoint",
                   "curveMode" : 1,
-                  "hasCurveFrom" : false,
+                  "hasCurveTo" : false,
                   "curveFrom" : "{1, 1}",
                   "point" : "{1, 1}",
                   "cornerRadius" : 0,
                   "curveTo" : "{1, 1}",
-                  "hasCurveTo" : false
+                  "hasCurveFrom" : false
                 },
                 {
                   "_class" : "curvePoint",
                   "curveMode" : 1,
-                  "hasCurveFrom" : false,
+                  "hasCurveTo" : false,
                   "curveFrom" : "{0, 1}",
                   "point" : "{0, 1}",
                   "cornerRadius" : 0,
                   "curveTo" : "{0, 1}",
-                  "hasCurveTo" : false
+                  "hasCurveFrom" : false
                 }
               ],
               "fixedRadius" : 0,
@@ -627,25 +700,25 @@
           },
           "rotation" : 0,
           "frame" : {
-            "y" : 519,
-            "width" : 320,
-            "_class" : "rect",
             "x" : 0,
+            "y" : 519,
+            "_class" : "rect",
             "constrainProportions" : false,
-            "height" : 49
+            "height" : 49,
+            "width" : 320
           },
           "do_objectID" : "1D304010-ED94-4B0C-9C95-663529F7B4A9",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "includedLayerIds" : [
 
             ],
             "layerOptions" : 0,
             "_class" : "exportOptions",
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
           "symbolID" : "EFF49AC1-D6E2-4B2B-BE33-77D5024AA7D5",
           "isFlippedVertical" : false,
@@ -704,11 +777,11 @@
       "isFlowHome" : false,
       "shouldBreakMaskChain" : true,
       "presetDictionary" : {
-        "name" : "iPhone SE",
-        "offersLandscapeVariant" : 1,
         "width" : 320,
+        "offersLandscapeVariant" : 1,
         "height" : 568,
-        "allowResizedMatching" : 1
+        "allowResizedMatching" : 1,
+        "name" : "iPhone SE"
       },
       "_class" : "artboard",
       "includeBackgroundColorInExport" : true,
